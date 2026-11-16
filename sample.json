@@ -34,5 +34,17 @@
         "place": "Estante Biblioteca",
         "shortDescription": "Shiva Nataraja (O Senhor da Dança) em miniatura, esculpida em bronze ou latão, retratando o deus hindu Shiva em sua dança cósmica dentro de um arco de fogo (prabhavali).",
         "title": "Shiva Nataraja"
+    },
+    {
+        "group": "Estátua",
+        "id": 4,
+        "image": "https://fernando-paixao.github.io/museu-rv/4.jpeg",
+        "isNewOrUpdated": false,
+        "keywords": "Índia, mitologia, hindu",
+        "longDescription": "",
+        "namespace": "NA RV",
+        "place": "Estante Biblioteca",
+        "shortDescription": "Esta é uma estátua decorativa de resina de Ganesha, representando a divindade hindu sentada sobre uma base de flor de lótus rosa e branca, comumente vendida como símbolo de sabedoria, prosperidade e remoção de obstáculos.",
+        "title": "Ganesha"
     }
 ]
