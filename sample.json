@@ -1,0 +1,26 @@
+[
+    {
+        "group": "Estátua",
+        "id": 1,
+        "image": "https://fernando-paixao.github.io/museu-rv/1.jpeg",
+        "isNewOrUpdated": false,
+        "keywords": "Grécia, mitologia, grega",
+        "longDescription": "",
+        "namespace": "NA RV",
+        "place": "Estante Livraria",
+        "shortDescription": "Estátua decorativa com acabamento em bronze da Dama da Justiça (Têmis), o símbolo clássico da lei e da ordem, segurando a balança da justiça em uma mão e uma espada na outra, enquanto está com os olhos vendados.",
+        "title": "Dama da Justiça (Têmis)"
+    },
+    {
+        "group": "Estátua",
+        "id": 2,
+        "image": "https://fernando-paixao.github.io/museu-rv/2.jpeg",
+        "isNewOrUpdated": false,
+        "keywords": "Índia, mitologia, hindu",
+        "longDescription": "",
+        "namespace": "NA RV",
+        "place": "Estante Biblioteca",
+        "shortDescription": "Ídolo artesanal de pedra ou esteatita/pedra rosa do Senhor Ganesha, representando a divindade hindu com cabeça de elefante, associada à sabedoria e aos novos começos, frequentemente retratada em uma postura tradicional de dança ou bênção.",
+        "title": "Ganesha"
+    }
+]
