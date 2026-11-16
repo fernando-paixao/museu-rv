@@ -22,5 +22,17 @@
         "place": "Estante Biblioteca",
         "shortDescription": "Ídolo artesanal de pedra ou esteatita/pedra rosa do Senhor Ganesha, representando a divindade hindu com cabeça de elefante, associada à sabedoria e aos novos começos, frequentemente retratada em uma postura tradicional de dança ou bênção.",
         "title": "Ganesha"
+    },
+    {
+        "group": "Estátua",
+        "id": 3,
+        "image": "https://fernando-paixao.github.io/museu-rv/3.jpeg",
+        "isNewOrUpdated": false,
+        "keywords": "Índia, mitologia, hindu",
+        "longDescription": "",
+        "namespace": "NA RV",
+        "place": "Estante Biblioteca",
+        "shortDescription": "Shiva Nataraja (O Senhor da Dança) em miniatura, esculpida em bronze ou latão, retratando o deus hindu Shiva em sua dança cósmica dentro de um arco de fogo (prabhavali).",
+        "title": "Shiva Nataraja"
     }
 ]
